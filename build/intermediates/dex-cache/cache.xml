@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\json-20090211.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c183aa3a2a6250293808bba12262c8920ce5a51c">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-20090211_c5ec11ab27886bac0067fa409ec64d5deb7f616f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\httpclient-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64849efdc10ea21eed3be7cc19ea7ec5af186776">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.1_fa74d916c3b4b104d502c928fb2ddf4cbf5af04f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8669e19a3cf27c44db98d9871d2015265a91134c">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e7c948c903de7696d6341fcccb1408993bba857d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d641f139860937cfef6345282e171bf2483fbb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\json-20090211.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c183aa3a2a6250293808bba12262c8920ce5a51c">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-20090211_c5ec11ab27886bac0067fa409ec64d5deb7f616f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\httpcore-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3_a0a58b3984dc9c47804370f1cc4bf885bb6b589c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_05b57deab0c1ad6490d87f05bba215430ff0700c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_05b57deab0c1ad6490d87f05bba215430ff0700c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3_a0a58b3984dc9c47804370f1cc4bf885bb6b589c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d641f139860937cfef6345282e171bf2483fbb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_8ac14b5904c21931d5fb6a5cc70d1a22a32ccb89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\gtranslateapi-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd73a31e93dae47ced5063b01ede5ffcf817f9ed">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\gtranslateapi-1.0_0e83144e3a5f87370102efd4c4927b6f1c32e6ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_8ac14b5904c21931d5fb6a5cc70d1a22a32ccb89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_666e2a716853b7cd55de1460b38e3eea2826bccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\gtranslateapi-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd73a31e93dae47ced5063b01ede5ffcf817f9ed">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\gtranslateapi-1.0_0e83144e3a5f87370102efd4c4927b6f1c32e6ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\libs\httpclient-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64849efdc10ea21eed3be7cc19ea7ec5af186776">
+        <dex dex="C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.1_fa74d916c3b4b104d502c928fb2ddf4cbf5af04f\classes.dex" />
+    </item>
+
+</items>

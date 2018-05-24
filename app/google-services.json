@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1026335974240",
+    "firebase_url": "https://thuan-mobie.firebaseio.com",
+    "project_id": "thuan-mobie",
+    "storage_bucket": "thuan-mobie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026335974240:android:01587d924cc4fc17",
+        "android_client_info": {
+          "package_name": "com.ck5000.thuan.nongdanbiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026335974240-2v0v6bc5morss0l4bl6fjerh9q23fn8k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1026335974240-2v0v6bc5morss0l4bl6fjerh9q23fn8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9Ou2hrcfB2hjl9z4ytuSSPFurfRBZNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

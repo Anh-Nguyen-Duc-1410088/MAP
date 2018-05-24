@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_weather_by_address.xml",
+        "source": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\src\\main\\res\\menu\\menu_weather_by_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_weather_current_location.xml",
+        "source": "C:\\Users\\PhapKaKa\\Desktop\\mobie\\ass\\NongDanBiet\\app\\src\\main\\res\\menu\\menu_weather_current_location.xml"
+    }
+]

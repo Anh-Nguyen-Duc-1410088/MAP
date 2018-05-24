@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ManHinh1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/nen"
+    tools:context="com.ck5000.thuan.nongdanbiet.Begin1Activity"
+    >
+
+    <Button
+
+        android:layout_width="100dp"
+        android:layout_height="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/login"
+        android:id="@+id/bt_Login" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="42dp"
+        android:id="@+id/bt_ThoiTiet"
+        android:layout_below="@+id/bt_Login"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/thoitietbutton"
+        />
+
+
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="42dp"
+        android:id="@+id/bt_Group"
+        android:layout_below="@+id/bt_ThoiTiet"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/diendanbutton"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="42dp"
+        android:id="@+id/bt_BaiBao"
+        android:elevation="0dp"
+        android:layout_below="@+id/bt_Group"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/docbaobutton"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="42dp"
+        android:id="@+id/bt_Map"
+        android:layout_below="@+id/bt_BaiBao"
+
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bandobutton" />
+</RelativeLayout>

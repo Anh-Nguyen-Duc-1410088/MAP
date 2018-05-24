@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/nen"
+    tools:context="com.ck5000.thuan.firebasedemo.PostActivity"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tieude1"
+        android:layout_marginLeft="5dp"
+        android:text="Tiêu đề"
+        android:textSize="25dp"
+        android:textStyle="bold"
+
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/tieude"
+        android:layout_margin="12dp"
+        android:layout_below="@+id/tieude1"
+        android:background="#FFFFFF"
+        >
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_TieuDe"
+
+        />
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/noidung1"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@+id/tieude"
+        android:text="Nội dung:"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/noidung1"
+        android:layout_above="@+id/post_cancel"
+        android:background="#FFFFFF"
+        android:layout_margin="12dp"
+        >
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="12dp"
+
+            >
+
+            <EditText
+                android:id="@+id/edt_NoiDung"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintBottom_toTopOf="@+id/bt_post"
+                />
+        </ScrollView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:id="@+id/post_cancel"
+
+        >
+
+        <Button
+            android:id="@+id/bt_dangbai"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/dangbai"
+            />
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/bt_cancel"
+            android:background="@drawable/huy"
+            />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,549 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e74fda009acba7dc9ba4d90e6641c1438eb270fd\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\PhapKaKa\.android\build-cache\8d62d2e585358d035368df76fa06c399d604e3c0\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\690c76ccabb15d1d603b876fde37cac1e211f5d2\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4201733a2175f84b8155c9e72bf8ba792350d134\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] C:\Users\PhapKaKa\.android\build-cache\0ee7c17e1127abb5d3fe939c2cc6abc3488ac861\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4201733a2175f84b8155c9e72bf8ba792350d134\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:13:5-90:19
+MERGED from [com.google.android.gms:play-services:11.0.1] C:\Users\PhapKaKa\.android\build-cache\10aab7fc06455ccd200fe2d789acd2573514a1e7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.1] C:\Users\PhapKaKa\.android\build-cache\670ecd8345ecf4a6beadf3488d541ffddcf37cc2\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\d4ec3c4c61d1f1a902a3b509e3c9a628b65e5f08\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\2031181e0d2cd18edf190e388a9f9d922261ec8b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\PhapKaKa\.android\build-cache\3911b418151ed31af38b21a485703d6897a62563\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\PhapKaKa\.android\build-cache\0a7d0c78ed6b2d54751c37a1acf3d2df521d46f2\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\2e0fd861ec6a57f8d8e14262e234c52e96db3259\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a134ab1a5832b0de6ee72fb4b1816639b25caa57\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c5f378eea5bf5919bdf3a5499176bd0fb41e2370\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4a649af91e1145db79b76f66edf157922aac50c0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e74fda009acba7dc9ba4d90e6641c1438eb270fd\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\1bf0a51cd1d24f0fbd8ad34eec41fdbab0bdb0ba\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] C:\Users\PhapKaKa\.android\build-cache\adbfe497490fe5fd82b7f7662b4cd2b7a02ae082\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b3e4a5c3f850eae3f2583f79b1890f2ae28429de\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.1] C:\Users\PhapKaKa\.android\build-cache\9303bcbf9c80e8f5b04ef13762474ad38bac9314\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.1] C:\Users\PhapKaKa\.android\build-cache\202e21891d492674a94ccfd07d4abae4968897a9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e6c117dff9dbcc92a4cdb8c4c3da31d2e35c70d0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\PhapKaKa\.android\build-cache\8d62d2e585358d035368df76fa06c399d604e3c0\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.1] C:\Users\PhapKaKa\.android\build-cache\f6bd320dab689e328ba394dace979d929c912cef\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\690c76ccabb15d1d603b876fde37cac1e211f5d2\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] C:\Users\PhapKaKa\.android\build-cache\0ee7c17e1127abb5d3fe939c2cc6abc3488ac861\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.1] C:\Users\PhapKaKa\.android\build-cache\51ec68ff7a8b1d4fcf1f558b6f7250118348ba38\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.1] C:\Users\PhapKaKa\.android\build-cache\99ef8a232604576b4c5e854ddfeefd32cd7aa7ff\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.1] C:\Users\PhapKaKa\.android\build-cache\7b7b020f136948fa8b2ea6c72fdceb58b82f2f77\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] C:\Users\PhapKaKa\.android\build-cache\2354c1c6ebabd8624b88f33acec7c3b63298b7e3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\213d4100cb830c4cbd17612e39819fe304aa612e\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4201733a2175f84b8155c9e72bf8ba792350d134\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a7bce89029bc51c1b2f57544371ffef14ec7ac79\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ac86ade9c52d9a9c81fbf23b34409fe8b5344529\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.1] C:\Users\PhapKaKa\.android\build-cache\acc04d5a6f9850571b2a05dd38fe8c6a057d7472\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b7210cb3d8fec08ec4dc879568d43825f2da6a50\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhapKaKa\.android\build-cache\bb2b2871a5342031794a44b8264f220966c1047b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\PhapKaKa\.android\build-cache\7f0991ad02bb11bf39a9f1eb1a4bccf8ea8c3268\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e8de2e3ba99168d644e5419662588e5c8d22cb0b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\PhapKaKa\.android\build-cache\49af2f1c5c65add1ac932fd111578a95cf37570b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e62d329f0b6b1fd5e51f6d0eea196a6deb36c759\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\PhapKaKa\.android\build-cache\b5a95501f814723c5754184009fa95849b384eb4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\PhapKaKa\.android\build-cache\54d5ec8559d6e3d489002eb6ba9bd3310f5f7bcc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\PhapKaKa\.android\build-cache\7fd35af85ccdadffd2ebf7f4a83485605bf47478\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\PhapKaKa\.android\build-cache\1a5603316d83a0a9448f41bfa13c8edb0b60c9ba\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\PhapKaKa\.android\build-cache\22f80f84f4e5cf6f87ed9012f79b43ee96fbd73a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\PhapKaKa\.android\build-cache\cebaa8b808522cfca20e0292f1eefe3a54b1d225\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.ck5000.thuan.nongdanbiet.BeginActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.ck5000.thuan.nongdanbiet.LoginActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.ck5000.thuan.nongdanbiet.Begin1Activity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.ck5000.thuan.nongdanbiet.RegisterActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.ck5000.thuan.nongdanbiet.GiaCaActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:38:19-48
+activity#com.ck5000.thuan.nongdanbiet.PostActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:39:9-49
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:39:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:49:9-51:54
+	android:value
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:50:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:52:9-54:68
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e62d329f0b6b1fd5e51f6d0eea196a6deb36c759\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:53:13-58
+activity#com.ck5000.thuan.nongdanbiet.MapsActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:56:9-58:58
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:57:13-41
+activity#com.ck5000.thuan.nongdanbiet.Post1Activity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:59:9-50
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:59:19-48
+activity#com.ck5000.thuan.nongdanbiet.GroupActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:60:9-50
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:60:19-48
+activity#com.ck5000.thuan.nongdanbiet.BaiBaoActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:61:9-51
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:61:19-49
+activity#com.ck5000.thuan.nongdanbiet.NewActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:62:9-48
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:62:19-46
+activity#com.ck5000.thuan.nongdanbiet.weatherprediction.WeatherForecast
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:65:13-64
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:64:13-62
+activity#com.ck5000.thuan.nongdanbiet.weatherprediction.WeatherFore
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:67:9-70:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:69:13-64
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:68:13-58
+activity#com.ck5000.thuan.nongdanbiet.weatherprediction.WeatherCurrentLocationActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:73:13-76
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:72:13-77
+activity#com.ck5000.thuan.nongdanbiet.weatherprediction.WeatherByAddressActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:77:13-70
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:76:13-71
+activity#com.ck5000.thuan.nongdanbiet.weatherprediction.ChooseAddressActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:81:13-66
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:80:13-68
+activity#com.ck5000.thuan.nongdanbiet.ThoiTietActivity
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:83:9-85:48
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:85:13-46
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:84:13-45
+activity#com.ck5000.thuan.nongdanbiet.MapsActivity2
+ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:86:9-89:20
+	android:label
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:88:13-57
+	android:name
+		ADDED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml:87:13-42
+uses-sdk
+INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:11.0.1] C:\Users\PhapKaKa\.android\build-cache\10aab7fc06455ccd200fe2d789acd2573514a1e7\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.1] C:\Users\PhapKaKa\.android\build-cache\beb9d4fd568cc25d9d1f0cd555b84db8e5231209\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] C:\Users\PhapKaKa\.android\build-cache\0544b8adc6a80aa6c9fe5790d939b0acaf5ceda6\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\28640979d788f4a21cc6b993957f814a3c639482\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.1] C:\Users\PhapKaKa\.android\build-cache\670ecd8345ecf4a6beadf3488d541ffddcf37cc2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\d4ec3c4c61d1f1a902a3b509e3c9a628b65e5f08\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\2031181e0d2cd18edf190e388a9f9d922261ec8b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\PhapKaKa\.android\build-cache\3911b418151ed31af38b21a485703d6897a62563\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\PhapKaKa\.android\build-cache\0a7d0c78ed6b2d54751c37a1acf3d2df521d46f2\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\2e0fd861ec6a57f8d8e14262e234c52e96db3259\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a134ab1a5832b0de6ee72fb4b1816639b25caa57\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c5f378eea5bf5919bdf3a5499176bd0fb41e2370\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4a649af91e1145db79b76f66edf157922aac50c0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e74fda009acba7dc9ba4d90e6641c1438eb270fd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\1bf0a51cd1d24f0fbd8ad34eec41fdbab0bdb0ba\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] C:\Users\PhapKaKa\.android\build-cache\adbfe497490fe5fd82b7f7662b4cd2b7a02ae082\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b81b81e737782cdd5a0261b5e944cc4370562e52\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0ea975a79db3d72a9696d41cc9f1c66683a4bc5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b3e4a5c3f850eae3f2583f79b1890f2ae28429de\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.1] C:\Users\PhapKaKa\.android\build-cache\9303bcbf9c80e8f5b04ef13762474ad38bac9314\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.1] C:\Users\PhapKaKa\.android\build-cache\202e21891d492674a94ccfd07d4abae4968897a9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e6c117dff9dbcc92a4cdb8c4c3da31d2e35c70d0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\PhapKaKa\.android\build-cache\8d62d2e585358d035368df76fa06c399d604e3c0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.1] C:\Users\PhapKaKa\.android\build-cache\f6bd320dab689e328ba394dace979d929c912cef\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\690c76ccabb15d1d603b876fde37cac1e211f5d2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b5aad629353d6b2fbaaf917263d8f5d3fa69b76f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] C:\Users\PhapKaKa\.android\build-cache\0ee7c17e1127abb5d3fe939c2cc6abc3488ac861\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.1] C:\Users\PhapKaKa\.android\build-cache\51ec68ff7a8b1d4fcf1f558b6f7250118348ba38\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.1] C:\Users\PhapKaKa\.android\build-cache\99ef8a232604576b4c5e854ddfeefd32cd7aa7ff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.1] C:\Users\PhapKaKa\.android\build-cache\7b7b020f136948fa8b2ea6c72fdceb58b82f2f77\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] C:\Users\PhapKaKa\.android\build-cache\2354c1c6ebabd8624b88f33acec7c3b63298b7e3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e3d3393404943dc990708c8649fdcdb55c346949\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\213d4100cb830c4cbd17612e39819fe304aa612e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4201733a2175f84b8155c9e72bf8ba792350d134\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a7bce89029bc51c1b2f57544371ffef14ec7ac79\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ac86ade9c52d9a9c81fbf23b34409fe8b5344529\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.1] C:\Users\PhapKaKa\.android\build-cache\26a84f23073a32cdc4152ddf4030366740fd3e1a\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.1] C:\Users\PhapKaKa\.android\build-cache\acc04d5a6f9850571b2a05dd38fe8c6a057d7472\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.1] C:\Users\PhapKaKa\.android\build-cache\b7210cb3d8fec08ec4dc879568d43825f2da6a50\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhapKaKa\.android\build-cache\bb2b2871a5342031794a44b8264f220966c1047b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:11.0.1] C:\Users\PhapKaKa\.android\build-cache\99490c2ecc14808e2651283245032685b1481180\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e7df39033060fe4460aee03073e1efd813f99c65\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\PhapKaKa\.android\build-cache\7f0991ad02bb11bf39a9f1eb1a4bccf8ea8c3268\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e8de2e3ba99168d644e5419662588e5c8d22cb0b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\PhapKaKa\.android\build-cache\49af2f1c5c65add1ac932fd111578a95cf37570b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\PhapKaKa\.android\build-cache\e62d329f0b6b1fd5e51f6d0eea196a6deb36c759\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\PhapKaKa\.android\build-cache\b5a95501f814723c5754184009fa95849b384eb4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\PhapKaKa\.android\build-cache\54d5ec8559d6e3d489002eb6ba9bd3310f5f7bcc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\PhapKaKa\.android\build-cache\7fd35af85ccdadffd2ebf7f4a83485605bf47478\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\PhapKaKa\.android\build-cache\1a5603316d83a0a9448f41bfa13c8edb0b60c9ba\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\PhapKaKa\.android\build-cache\22f80f84f4e5cf6f87ed9012f79b43ee96fbd73a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\PhapKaKa\.android\build-cache\cebaa8b808522cfca20e0292f1eefe3a54b1d225\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\PhapKaKa\.android\build-cache\2031181e0d2cd18edf190e388a9f9d922261ec8b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhapKaKa\Desktop\mobie\ass\NongDanBiet\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\23edd9a2a69e16668303019b3dcca7df907860a8\output\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4201733a2175f84b8155c9e72bf8ba792350d134\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\bced70632a0481732ea76c4ecd6d7cc4788e348d\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\PhapKaKa\.android\build-cache\047a0eac1cba0948cc7c74bd8cea7254c9ec6a1a\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\PhapKaKa\.android\build-cache\ea43de059b04e2aea70295bcc6248c125afa27ed\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] C:\Users\PhapKaKa\.android\build-cache\3c9f7b31565bb56b3d251f3da2584ba4f9f013b4\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a3f62a17a0472364c2ae7ecee591090b76aa0a48\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\PhapKaKa\.android\build-cache\8d62d2e585358d035368df76fa06c399d604e3c0\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\690c76ccabb15d1d603b876fde37cac1e211f5d2\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\PhapKaKa\.android\build-cache\8d62d2e585358d035368df76fa06c399d604e3c0\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] C:\Users\PhapKaKa\.android\build-cache\4add85ac7ec7874fe98f42ba85a7cfa21c5387ad\output\AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\PhapKaKa\.android\build-cache\003973e6c588fedffae82298da61f8f87be7dece\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\PhapKaKa\.android\build-cache\052ce871e06219e7fde3ad51b565c93bb4457898\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\PhapKaKa\.android\build-cache\a0823e54bd618ad252476833910a4b8039259f41\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\PhapKaKa\.android\build-cache\5a4aab874ae31da3be80e72272dcd84399a56cf1\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c6acafe4ae896e543dd753e165b1f3cb04f91c91\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\PhapKaKa\.android\build-cache\c8b62e53220fb5d2fc603aaaa8788bcb0f8a1311\output\AndroidManifest.xml:6:79-143
